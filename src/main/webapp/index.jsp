@@ -1,7 +1,7 @@
 <html>
   <body>
 
-    <h1>THIS IS MY NEW SWIGGY APP VERSION 2.0</h1>
+    <h1>THIS IS AJAY THIS APPLICATION IS DEVELOPED BY AJAY</h1>
   
 
       </body>
