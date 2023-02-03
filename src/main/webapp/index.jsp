@@ -1,7 +1,7 @@
 <html>
   <body>
 
-    <h1>THIS IS AJAY THIS APPLICATION IS DEVELOPED BY AJAY</h1>
+    <img src="img_girl.jpg" alt="Girl in a jacket">
   
 
       </body>
